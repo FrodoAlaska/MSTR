@@ -1,0 +1,7 @@
+/home/mohamed/Dev/C/Libs/MSTR/build/CMakeFiles/mstr.dir
+/home/mohamed/Dev/C/Libs/MSTR/build/CMakeFiles/edit_cache.dir
+/home/mohamed/Dev/C/Libs/MSTR/build/CMakeFiles/rebuild_cache.dir
+/home/mohamed/Dev/C/Libs/MSTR/build/CMakeFiles/list_install_components.dir
+/home/mohamed/Dev/C/Libs/MSTR/build/CMakeFiles/install.dir
+/home/mohamed/Dev/C/Libs/MSTR/build/CMakeFiles/install/local.dir
+/home/mohamed/Dev/C/Libs/MSTR/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/mohamed/Dev/C/Libs/MSTR/build",
+  "command": "/usr/bin/cc    -o CMakeFiles/mstr.dir/mstr.c.o -c /home/mohamed/Dev/C/Libs/MSTR/mstr.c",
+  "file": "/home/mohamed/Dev/C/Libs/MSTR/mstr.c",
+  "output": "CMakeFiles/mstr.dir/mstr.c.o"
+}
+]
