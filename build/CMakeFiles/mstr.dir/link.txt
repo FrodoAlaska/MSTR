@@ -1,2 +1,0 @@
-/usr/bin/ar qc libmstr.a CMakeFiles/mstr.dir/mstr.c.o
-/usr/bin/ranlib libmstr.a
