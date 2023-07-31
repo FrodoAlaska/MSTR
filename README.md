@@ -21,7 +21,7 @@ make(or cmake --build . if on Windows)
 
 After running the above commands, you should have the .a file ready in the **build** folder. All you have to do is take the header file(located in the root directory of the project), the .a file, and put them anywhere in your project. You can link to the library from any project either by using cmake, make, or any other build system. The following is an example of how you can use the library in your project using cmake. You can add these lines of code anywhere in your `CMakeLists.txt` file.
 
-~~~
+~~~cmake
 # Put this before add_executable()
 add_library(mstr mstr REQUIRED)
 
@@ -33,7 +33,7 @@ target_link_libraries(${PROJECT_NAME} mstr)
 # How to use MSTR?
 This library only has one header file. The header file only has one type(the `String` type) and several functions that operate on that type. The following is the list of functions which are currently available in MSTR:
 
-~~~
+~~~c
 // Counts every characters until the null-termination character 
 // and returns the result.
 size_t MR_GetStringLength(String* str);
