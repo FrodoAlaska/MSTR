@@ -1,5 +1,5 @@
 # What is MSTR?
-Mutable, Manipulatable, and Malubale string or MSTR(prounanced Mister) for short is a string library made purly in C. The library itself is only one header file and one source file, and it does not use any C string functions(except 'memcpy' which is in the string.h library). All of the manipulation done with strings and characters are entirely done from scratch. Unfourtunately, MSTR only supports ASCII currently, with no plans to support UTF8 anytime soon. 
+Mutable, Manipulatable, and Malubale string or MSTR (prounanced Mister) for short is a string library made purly in C. The library itself is only one header file and one source file, and it does not use any C string functions(except 'memcpy' which is in the string.h library). All of the manipulation done with strings and characters are entirely done from scratch. Unfourtunately, MSTR only supports ASCII currently, with no plans to support UTF8 anytime soon. 
 
 However, the library does include all types of string manipulation functions that you might need. To see the full functions list, refer to the 'How to use MSTR' section below. The code is documented throughly so there is no need to look outside of the header file to understand how the functions work or when to use them. 
 
