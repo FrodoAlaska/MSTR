@@ -1,3 +1,0 @@
-/home/mohamed/Dev/C/Libs/MSTR/build/CMakeFiles/mstr.dir
-/home/mohamed/Dev/C/Libs/MSTR/build/CMakeFiles/edit_cache.dir
-/home/mohamed/Dev/C/Libs/MSTR/build/CMakeFiles/rebuild_cache.dir
