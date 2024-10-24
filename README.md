@@ -26,7 +26,7 @@ After running the above commands, you should have the .a file ready in the **bui
 add_library(mstr mstr REQUIRED)
 
 # Put these after add_executable()
-target_include_directories(${PROJECT_NAME} PUBLIC (you can also make this PRIVATE) path/to/libmstr.a)
+target_include_directories(${PROJECT_NAME} PUBLIC path/to/libmstr.a)
 target_link_libraries(${PROJECT_NAME} mstr)
 ~~~
 
